@@ -125,7 +125,6 @@ Way to add in good inductive biases（添加良好的归纳偏差的）         
 
 组合在一起就是这样	
 
-![截屏2023-04-02 下午9.11.37](../../../../../计算机学习/应用层/unity/unity-VR/picoVR/picoVR-picture/截屏2023-04-02 下午9.11.37.png)
 
 潜空间（Latent Space）语义地图（Semantic Map）
 
